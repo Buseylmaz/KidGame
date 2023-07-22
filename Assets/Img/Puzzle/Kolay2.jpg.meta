@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 37fab776087cab24aa5bf2172cfafc6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4094484313897825024
+    second: "aga\xE7_0"
+  - first:
+      213: -1675643193791151183
+    second: "aga\xE7_1"
+  - first:
+      213: -2836875011076097511
+    second: "aga\xE7_2"
+  - first:
+      213: 3032447201141686684
+    second: "aga\xE7_3"
+  - first:
+      213: -7171091807605647156
+    second: "aga\xE7_4"
+  - first:
+      213: -3012458367400002965
+    second: "aga\xE7_5"
+  - first:
+      213: -5412361104274305879
+    second: "aga\xE7_6"
+  - first:
+      213: -1216176294118599875
+    second: "aga\xE7_7"
+  - first:
+      213: 3003702969314749810
+    second: "aga\xE7_8"
+  - first:
+      213: -2254406342512824011
+    second: "aga\xE7_9"
+  - first:
+      213: -8102217183511065059
+    second: "aga\xE7_10"
+  - first:
+      213: 741846113919905372
+    second: "aga\xE7_11"
+  - first:
+      213: -2317421698995132747
+    second: "aga\xE7_12"
+  - first:
+      213: -2145929056872491292
+    second: "aga\xE7_13"
+  - first:
+      213: -1213708540585928094
+    second: "aga\xE7_14"
+  - first:
+      213: 6416229376508766072
+    second: "aga\xE7_15"
+  - first:
+      213: -8628487096330782150
+    second: Kolay2_0
+  - first:
+      213: 7784447497862785853
+    second: Kolay2_1
+  - first:
+      213: -8939550989042793942
+    second: Kolay2_2
+  - first:
+      213: 5555986693696671419
+    second: Kolay2_3
+  - first:
+      213: 9004591302551566168
+    second: Kolay2_4
+  - first:
+      213: -5803423847843365929
+    second: Kolay2_5
+  - first:
+      213: -3410703862322772709
+    second: Kolay2_6
+  - first:
+      213: -6906185885751353370
+    second: Kolay2_7
+  - first:
+      213: -6831127901925571760
+    second: Kolay2_8
+  - first:
+      213: -1296307094131112697
+    second: Kolay2_9
+  - first:
+      213: -7550518831313304042
+    second: Kolay2_10
+  - first:
+      213: -8289507543034834465
+    second: Kolay2_11
+  - first:
+      213: -7530419306443981849
+    second: Kolay2_12
+  - first:
+      213: 189148152511021594
+    second: Kolay2_13
+  - first:
+      213: -1894935384834968889
+    second: Kolay2_14
+  - first:
+      213: 4734600130387611459
+    second: Kolay2_15
+  - first:
+      213: -5790626957882808297
+    second: Kolay2_16
+  - first:
+      213: 8446156731741920257
+    second: Kolay2_17
+  - first:
+      213: -3122606335365711444
+    second: Kolay2_18
+  - first:
+      213: 3476999152293470944
+    second: Kolay2_19
+  - first:
+      213: 3479315465732411397
+    second: Kolay2_20
+  - first:
+      213: -2629186096197285015
+    second: Kolay2_21
+  - first:
+      213: 8523731533587728364
+    second: Kolay2_22
+  - first:
+      213: 4321722920117205515
+    second: Kolay2_23
+  - first:
+      213: 4432800714627527238
+    second: Kolay2_24
+  - first:
+      213: 5884490421855900446
+    second: Kolay2_25
+  - first:
+      213: -328721625997684822
+    second: Kolay2_26
+  - first:
+      213: -5512412689457530596
+    second: Kolay2_27
+  - first:
+      213: 6802116404913216444
+    second: Kolay2_28
+  - first:
+      213: -5479520332692944618
+    second: Kolay2_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kolay2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a792a93b4714880800000000000000
+      internalID: -8628487096330782150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 302
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b2aca61c9e70c60800000000000000
+      internalID: 7784447497862785853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 302
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22cc9e3db550f380800000000000000
+      internalID: -8939550989042793942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 302
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe46960674da1d40800000000000000
+      internalID: 5555986693696671419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 302
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577820d41cb6fc70800000000000000
+      internalID: 9004591302551566168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbf34c12c8167fa0800000000000000
+      internalID: -5803423847843365929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 242
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c23c68eebaa0d0800000000000000
+      internalID: -3410703862322772709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 242
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef59f6078c4820a0800000000000000
+      internalID: -6906185885751353370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538776bd55f231a0800000000000000
+      internalID: -6831127901925571760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 242
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7050f76e097920ee0800000000000000
+      internalID: -1296307094131112697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164ca5902b273790800000000000000
+      internalID: -7550518831313304042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 182
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1dc7e2fc0c5fc80800000000000000
+      internalID: -8289507543034834465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 182
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb9a5e9839e7790800000000000000
+      internalID: -7530419306443981849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 182
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1247581e3dff9200800000000000000
+      internalID: 189148152511021594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 182
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2f79aae46d3b5e0800000000000000
+      internalID: -1894935384834968889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f854dcbbda4b140800000000000000
+      internalID: 4734600130387611459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 122
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718289c367f83afa0800000000000000
+      internalID: -5790626957882808297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c50c04cc6c63570800000000000000
+      internalID: 8446156731741920257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 122
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9742f05164aa4d0800000000000000
+      internalID: -3122606335365711444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e269cc9e48c04030800000000000000
+      internalID: 3476999152293470944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d08c5bf2094030800000000000000
+      internalID: 3479315465732411397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc3cfec21438bd0800000000000000
+      internalID: -2629186096197285015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ca4c4ba06a4670800000000000000
+      internalID: 8523731533587728364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aff3f2918d9fb30800000000000000
+      internalID: 4321722920117205515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b87393c8748d30800000000000000
+      internalID: 4432800714627527238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d8ee7cd8e9a150800000000000000
+      internalID: 5884490421855900446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4b6c3c65207bf0800000000000000
+      internalID: -328721625997684822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19378d6dd9ff73b0800000000000000
+      internalID: -5512412689457530596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb95b3c4d8f56e50800000000000000
+      internalID: 6802116404913216444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolay2_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198e460a45d4f3b0800000000000000
+      internalID: -5479520332692944618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

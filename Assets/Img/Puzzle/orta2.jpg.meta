@@ -1,0 +1,2624 @@
+fileFormatVersion: 2
+guid: 158b9007f4bca054fae605aefd9bd9e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1602670032629255270
+    second: prefabrik-evler-2_0
+  - first:
+      213: -7716586223584609246
+    second: prefabrik-evler-2_1
+  - first:
+      213: 329268746457885034
+    second: prefabrik-evler-2_2
+  - first:
+      213: 2352656284726708043
+    second: prefabrik-evler-2_3
+  - first:
+      213: -6081484457775585207
+    second: prefabrik-evler-2_4
+  - first:
+      213: -2949295965059338209
+    second: prefabrik-evler-2_5
+  - first:
+      213: -8024376715900648389
+    second: prefabrik-evler-2_6
+  - first:
+      213: -3525788397870187639
+    second: prefabrik-evler-2_7
+  - first:
+      213: 2647298608050732910
+    second: prefabrik-evler-2_8
+  - first:
+      213: 3527841133996176438
+    second: prefabrik-evler-2_9
+  - first:
+      213: 8013712296797705670
+    second: prefabrik-evler-2_10
+  - first:
+      213: -7154403393292753193
+    second: prefabrik-evler-2_11
+  - first:
+      213: -6273526345231842478
+    second: prefabrik-evler-2_12
+  - first:
+      213: 8868735455697315722
+    second: prefabrik-evler-2_13
+  - first:
+      213: -24724836914935944
+    second: prefabrik-evler-2_14
+  - first:
+      213: -4940191225373252879
+    second: prefabrik-evler-2_15
+  - first:
+      213: -4004464240144841197
+    second: prefabrik-evler-2_16
+  - first:
+      213: -1743870440891012479
+    second: prefabrik-evler-2_17
+  - first:
+      213: -7379979045936598887
+    second: prefabrik-evler-2_18
+  - first:
+      213: 4600281723130413001
+    second: prefabrik-evler-2_19
+  - first:
+      213: 702688043472502789
+    second: prefabrik-evler-2_20
+  - first:
+      213: 5252568569995799776
+    second: prefabrik-evler-2_21
+  - first:
+      213: 5020399052086415835
+    second: prefabrik-evler-2_22
+  - first:
+      213: 3069971533974655798
+    second: prefabrik-evler-2_23
+  - first:
+      213: 5473193406734142936
+    second: prefabrik-evler-2_24
+  - first:
+      213: 8402837513557300362
+    second: prefabrik-evler-2_25
+  - first:
+      213: 2383571424429526906
+    second: prefabrik-evler-2_26
+  - first:
+      213: -247285296609740645
+    second: prefabrik-evler-2_27
+  - first:
+      213: -5877652563764470770
+    second: prefabrik-evler-2_28
+  - first:
+      213: -4361092651035617964
+    second: prefabrik-evler-2_29
+  - first:
+      213: -2709047298569602765
+    second: prefabrik-evler-2_30
+  - first:
+      213: -8754966853203321585
+    second: prefabrik-evler-2_31
+  - first:
+      213: 7564889265731411010
+    second: prefabrik-evler-2_32
+  - first:
+      213: -1748479735339689490
+    second: prefabrik-evler-2_33
+  - first:
+      213: 7910858711122340728
+    second: prefabrik-evler-2_34
+  - first:
+      213: -4048692850331898252
+    second: prefabrik-evler-2_35
+  - first:
+      213: -7745818171273085112
+    second: prefabrik-evler-2_36
+  - first:
+      213: -3675388785813195974
+    second: prefabrik-evler-2_37
+  - first:
+      213: 6009970489827909747
+    second: prefabrik-evler-2_38
+  - first:
+      213: 365292067184051355
+    second: prefabrik-evler-2_39
+  - first:
+      213: 7226388078299336614
+    second: prefabrik-evler-2_40
+  - first:
+      213: -8588124341833269692
+    second: prefabrik-evler-2_41
+  - first:
+      213: 8357117856934628267
+    second: prefabrik-evler-2_42
+  - first:
+      213: -5783821762536433809
+    second: prefabrik-evler-2_43
+  - first:
+      213: 5627441402030911074
+    second: prefabrik-evler-2_44
+  - first:
+      213: 5616768975431460071
+    second: prefabrik-evler-2_45
+  - first:
+      213: -6893784217498635995
+    second: prefabrik-evler-2_46
+  - first:
+      213: 223048931219668862
+    second: prefabrik-evler-2_47
+  - first:
+      213: -1821020251253406909
+    second: prefabrik-evler-2_48
+  - first:
+      213: 2183661596570802888
+    second: prefabrik-evler-2_49
+  - first:
+      213: -8598262986926945141
+    second: prefabrik-evler-2_50
+  - first:
+      213: 1226977691758179914
+    second: prefabrik-evler-2_51
+  - first:
+      213: -8408023014316792165
+    second: prefabrik-evler-2_52
+  - first:
+      213: 8583824484108714487
+    second: prefabrik-evler-2_53
+  - first:
+      213: -4952480141216695596
+    second: prefabrik-evler-2_54
+  - first:
+      213: 5924857411174676574
+    second: prefabrik-evler-2_55
+  - first:
+      213: 2495099970210356045
+    second: prefabrik-evler-2_56
+  - first:
+      213: -8626525104786972894
+    second: prefabrik-evler-2_57
+  - first:
+      213: 6020311038119990758
+    second: prefabrik-evler-2_58
+  - first:
+      213: -4752670462788063257
+    second: prefabrik-evler-2_59
+  - first:
+      213: -5225503836302084793
+    second: prefabrik-evler-2_60
+  - first:
+      213: -1284830656438523114
+    second: prefabrik-evler-2_61
+  - first:
+      213: -4457335701571691212
+    second: prefabrik-evler-2_62
+  - first:
+      213: 8596424523245853165
+    second: prefabrik-evler-2_63
+  - first:
+      213: -2396006171908804113
+    second: orta2_0
+  - first:
+      213: -1886908264576005096
+    second: orta2_1
+  - first:
+      213: -7014679836350941109
+    second: orta2_2
+  - first:
+      213: 3025848135469795776
+    second: orta2_3
+  - first:
+      213: 1835000295659776709
+    second: orta2_4
+  - first:
+      213: 6122413819578776884
+    second: orta2_5
+  - first:
+      213: -6617428221571718060
+    second: orta2_6
+  - first:
+      213: 5426928717766743583
+    second: orta2_7
+  - first:
+      213: -3902812372236128019
+    second: orta2_8
+  - first:
+      213: 5584440141700666972
+    second: orta2_9
+  - first:
+      213: 6058240661388200156
+    second: orta2_10
+  - first:
+      213: 6180746919113674745
+    second: orta2_11
+  - first:
+      213: -8398588512228758123
+    second: orta2_12
+  - first:
+      213: 7815369965177073782
+    second: orta2_13
+  - first:
+      213: -5231302789103225855
+    second: orta2_14
+  - first:
+      213: 7405253742199316073
+    second: orta2_15
+  - first:
+      213: -8786620568036809333
+    second: orta2_16
+  - first:
+      213: 835027606607837707
+    second: orta2_17
+  - first:
+      213: -565977838938838940
+    second: orta2_18
+  - first:
+      213: 8741321977661487489
+    second: orta2_19
+  - first:
+      213: -4636389712974010854
+    second: orta2_20
+  - first:
+      213: 348431632630291781
+    second: orta2_21
+  - first:
+      213: 184948858135043379
+    second: orta2_22
+  - first:
+      213: 931311082729675465
+    second: orta2_23
+  - first:
+      213: 8035625253090939078
+    second: orta2_24
+  - first:
+      213: -2069353578763615290
+    second: orta2_25
+  - first:
+      213: 1136806007468758471
+    second: orta2_26
+  - first:
+      213: -8300741309406064613
+    second: orta2_27
+  - first:
+      213: -1209814497240973100
+    second: orta2_28
+  - first:
+      213: -4349649321135034464
+    second: orta2_29
+  - first:
+      213: 631254759899476308
+    second: orta2_30
+  - first:
+      213: -1583046695547944581
+    second: orta2_31
+  - first:
+      213: -6585155692136813725
+    second: orta2_32
+  - first:
+      213: -4229536928977844761
+    second: orta2_33
+  - first:
+      213: -1462908566008025952
+    second: orta2_34
+  - first:
+      213: -1122320870173805861
+    second: orta2_35
+  - first:
+      213: -2009338633418857254
+    second: orta2_36
+  - first:
+      213: 2386680208862614164
+    second: orta2_37
+  - first:
+      213: 4710793124937760312
+    second: orta2_38
+  - first:
+      213: 7277549187022228998
+    second: orta2_39
+  - first:
+      213: 8251911361070870547
+    second: orta2_40
+  - first:
+      213: 1484140490740335158
+    second: orta2_41
+  - first:
+      213: 8205764386379325912
+    second: orta2_42
+  - first:
+      213: -7920823508273443089
+    second: orta2_43
+  - first:
+      213: -6722556676936567835
+    second: orta2_44
+  - first:
+      213: -8374382086653910249
+    second: orta2_45
+  - first:
+      213: -1098559548849691258
+    second: orta2_46
+  - first:
+      213: 7334729886405977547
+    second: orta2_47
+  - first:
+      213: 5734600840434732166
+    second: orta2_48
+  - first:
+      213: -6693587860719593229
+    second: orta2_49
+  - first:
+      213: 3060553362230458536
+    second: orta2_50
+  - first:
+      213: -6779791106580991117
+    second: orta2_51
+  - first:
+      213: 823133409448246300
+    second: orta2_52
+  - first:
+      213: 5138352990438792604
+    second: orta2_53
+  - first:
+      213: 5187699416610279959
+    second: orta2_54
+  - first:
+      213: 8159374242255574910
+    second: orta2_55
+  - first:
+      213: 5509527813968075289
+    second: orta2_56
+  - first:
+      213: 8702683505103112750
+    second: orta2_57
+  - first:
+      213: 1626350389702137997
+    second: orta2_58
+  - first:
+      213: 4800432396997704029
+    second: orta2_59
+  - first:
+      213: 388713910919806393
+    second: orta2_60
+  - first:
+      213: 6585574310632237375
+    second: orta2_61
+  - first:
+      213: -6149287743959062433
+    second: orta2_62
+  - first:
+      213: 1046422547797756039
+    second: orta2_63
+  - first:
+      213: -1635207849960565054
+    second: orta2_64
+  - first:
+      213: 4598944441571573505
+    second: orta2_65
+  - first:
+      213: -1131382992145447
+    second: orta2_66
+  - first:
+      213: -5624345748453656627
+    second: orta2_67
+  - first:
+      213: -3698782388720891918
+    second: orta2_68
+  - first:
+      213: 6995398672355216327
+    second: orta2_69
+  - first:
+      213: -9154730940880831250
+    second: orta2_70
+  - first:
+      213: 561724924955117140
+    second: orta2_71
+  - first:
+      213: 2625917218394520179
+    second: orta2_72
+  - first:
+      213: -1308178841737954578
+    second: orta2_73
+  - first:
+      213: -5035901504371316967
+    second: orta2_74
+  - first:
+      213: -934526688917774222
+    second: orta2_75
+  - first:
+      213: -3136169401317042896
+    second: orta2_76
+  - first:
+      213: 2100057989027787975
+    second: orta2_77
+  - first:
+      213: -9023106124954434198
+    second: orta2_78
+  - first:
+      213: 7476252886979185233
+    second: orta2_79
+  - first:
+      213: 4677326485417524733
+    second: orta2_80
+  - first:
+      213: -8069581146861755041
+    second: orta2_81
+  - first:
+      213: 6217691243402122161
+    second: orta2_82
+  - first:
+      213: -4504183045566468053
+    second: orta2_83
+  - first:
+      213: 4745392705027816495
+    second: orta2_0
+  - first:
+      213: -4294706700361359477
+    second: orta2_1
+  - first:
+      213: 5197118065656979102
+    second: orta2_2
+  - first:
+      213: -6796486671456561478
+    second: orta2_3
+  - first:
+      213: -2173396226439863299
+    second: orta2_4
+  - first:
+      213: 5050401287905253310
+    second: orta2_5
+  - first:
+      213: -818389097516878965
+    second: orta2_6
+  - first:
+      213: -57752534156850875
+    second: orta2_7
+  - first:
+      213: -4884345553025521499
+    second: orta2_8
+  - first:
+      213: 9062617677919790267
+    second: orta2_9
+  - first:
+      213: -171852229932068412
+    second: orta2_10
+  - first:
+      213: 8941486448226678366
+    second: orta2_11
+  - first:
+      213: 5110665062115414755
+    second: orta2_12
+  - first:
+      213: 6902843461270460256
+    second: orta2_13
+  - first:
+      213: 6087338191221536824
+    second: orta2_14
+  - first:
+      213: -6404631583025703045
+    second: orta2_15
+  - first:
+      213: -153082373812650584
+    second: orta2_16
+  - first:
+      213: -1687392515073423629
+    second: orta2_17
+  - first:
+      213: 1177057048820052424
+    second: orta2_18
+  - first:
+      213: 7812627087214932266
+    second: orta2_19
+  - first:
+      213: -7883658818516130205
+    second: orta2_20
+  - first:
+      213: 6696040883765213992
+    second: orta2_21
+  - first:
+      213: -914541835352125499
+    second: orta2_22
+  - first:
+      213: 2137440790973658137
+    second: orta2_23
+  - first:
+      213: 3611180790311398394
+    second: orta2_24
+  - first:
+      213: -4657045075119455003
+    second: orta2_25
+  - first:
+      213: 3921738487419253624
+    second: orta2_26
+  - first:
+      213: 5588430880325318451
+    second: orta2_27
+  - first:
+      213: -1577001858687713290
+    second: orta2_28
+  - first:
+      213: 8949543432956102824
+    second: orta2_29
+  - first:
+      213: 4226103281845819859
+    second: orta2_30
+  - first:
+      213: 3852881213602924442
+    second: orta2_31
+  - first:
+      213: -4095375216674167689
+    second: orta2_32
+  - first:
+      213: -126834255916619351
+    second: orta2_33
+  - first:
+      213: -3507562281643749928
+    second: orta2_34
+  - first:
+      213: 4070578872610961783
+    second: orta2_35
+  - first:
+      213: -7598858454411465737
+    second: orta2_36
+  - first:
+      213: -7103496822562362479
+    second: orta2_37
+  - first:
+      213: 758185570055099191
+    second: orta2_38
+  - first:
+      213: 640647660512533481
+    second: orta2_39
+  - first:
+      213: -7221355043893083208
+    second: orta2_40
+  - first:
+      213: -3741120049202281396
+    second: orta2_41
+  - first:
+      213: -2800329083153519262
+    second: orta2_42
+  - first:
+      213: -7590496034008742240
+    second: orta2_43
+  - first:
+      213: -5989971351366517568
+    second: orta2_44
+  - first:
+      213: -1338283108929900955
+    second: orta2_45
+  - first:
+      213: 8775796466051781202
+    second: orta2_46
+  - first:
+      213: -8242696229898081189
+    second: orta2_47
+  - first:
+      213: -6162659872374632299
+    second: orta2_48
+  - first:
+      213: 7674642044627234245
+    second: orta2_49
+  - first:
+      213: 2673863527905976292
+    second: orta2_50
+  - first:
+      213: -4303883447429215474
+    second: orta2_51
+  - first:
+      213: -1473624148401446047
+    second: orta2_52
+  - first:
+      213: 1871232600235398657
+    second: orta2_53
+  - first:
+      213: 6369231408838868643
+    second: orta2_54
+  - first:
+      213: 3222151621130381053
+    second: orta2_55
+  - first:
+      213: 7873323144287765451
+    second: orta2_56
+  - first:
+      213: -4699053147143321348
+    second: orta2_57
+  - first:
+      213: 2462039484910299505
+    second: orta2_58
+  - first:
+      213: -6350765667639124488
+    second: orta2_59
+  - first:
+      213: -8433040810537312176
+    second: orta2_60
+  - first:
+      213: -3374386876396126425
+    second: orta2_61
+  - first:
+      213: -4050578008561520562
+    second: orta2_62
+  - first:
+      213: 6166918959798291402
+    second: orta2_63
+  - first:
+      213: 5936943703319672328
+    second: orta2_64
+  - first:
+      213: 8108055706561725059
+    second: orta2_65
+  - first:
+      213: 5651533931326102402
+    second: orta2_66
+  - first:
+      213: 3545926826777172058
+    second: orta2_67
+  - first:
+      213: -749231018217527603
+    second: orta2_68
+  - first:
+      213: 7963582245928853595
+    second: orta2_69
+  - first:
+      213: -4351560469300398692
+    second: orta2_70
+  - first:
+      213: -2664942273940667173
+    second: orta2_71
+  - first:
+      213: -5703328007348950941
+    second: orta2_72
+  - first:
+      213: -2882800582443041372
+    second: orta2_73
+  - first:
+      213: 1669700604438428204
+    second: orta2_74
+  - first:
+      213: 6348144917545950213
+    second: orta2_75
+  - first:
+      213: -5551247388875017497
+    second: orta2_76
+  - first:
+      213: 5341951356875799313
+    second: orta2_77
+  - first:
+      213: 768030681601231925
+    second: orta2_78
+  - first:
+      213: -8145816699510466103
+    second: orta2_79
+  - first:
+      213: 6720895595985843417
+    second: orta2_80
+  - first:
+      213: 6877138735294653002
+    second: orta2_81
+  - first:
+      213: 2444430758667825618
+    second: orta2_82
+  - first:
+      213: -8688599347301194970
+    second: orta2_83
+  - first:
+      213: 5778033646159850087
+    second: orta2_84
+  - first:
+      213: 5894061877013702729
+    second: orta2_85
+  - first:
+      213: 2776853486858186835
+    second: orta2_86
+  - first:
+      213: -6186018449784656728
+    second: orta2_87
+  - first:
+      213: 7516674380390437260
+    second: orta2_88
+  - first:
+      213: -3534380655415000924
+    second: orta2_89
+  - first:
+      213: -3560989244198925335
+    second: orta2_90
+  - first:
+      213: 2337384221215606563
+    second: orta2_91
+  - first:
+      213: -7977607398725806500
+    second: orta2_92
+  - first:
+      213: -4597715211231226208
+    second: orta2_93
+  - first:
+      213: 6875523285618132566
+    second: orta2_94
+  - first:
+      213: -2086085594189066653
+    second: orta2_95
+  - first:
+      213: -218839021954479617
+    second: orta2_96
+  - first:
+      213: 2901997838785699073
+    second: orta2_97
+  - first:
+      213: -3199624044934820122
+    second: orta2_98
+  - first:
+      213: 6353196186842874291
+    second: orta2_99
+  - first:
+      213: -8068535268103680087
+    second: orta2_100
+  - first:
+      213: -776006642190972282
+    second: orta2_101
+  - first:
+      213: 2372757600720984995
+    second: orta2_102
+  - first:
+      213: -1781632529535613466
+    second: orta2_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orta2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb9e6e5850bd140800000000000000
+      internalID: 4745392705027816495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f9876a2032664c0800000000000000
+      internalID: -4294706700361359477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9edf3f585fdf1840800000000000000
+      internalID: 5197118065656979102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69723b1670ea1a0800000000000000
+      internalID: -6796486671456561478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a0eea5ab86d1e0800000000000000
+      internalID: -2173396226439863299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb794c29631a61640800000000000000
+      internalID: 5050401287905253310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83347aa37f74a4f0800000000000000
+      internalID: -818389097516878965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c3bc4062d23ff0800000000000000
+      internalID: -57752534156850875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a7af0991573cb0800000000000000
+      internalID: -4884345553025521499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a59323c2e4cd70800000000000000
+      internalID: 9062617677919790267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15a01be457d9df0800000000000000
+      internalID: -171852229932068412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 602
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e563586fc8a861c70800000000000000
+      internalID: 8941486448226678366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29369ebcabce640800000000000000
+      internalID: 5110665062115414755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06757212e83dbcf50800000000000000
+      internalID: 6902843461270460256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838bd6335d19a7450800000000000000
+      internalID: 6087338191221536824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b775188228d2e17a0800000000000000
+      internalID: -6404631583025703045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf58f546420edf0800000000000000
+      internalID: -153082373812650584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6456e927d2598e0800000000000000
+      internalID: -1687392515073423629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1f94b462fb55010800000000000000
+      internalID: 1177057048820052424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217a0851f60c6c60800000000000000
+      internalID: 7812627087214932266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36668ffe21e979290800000000000000
+      internalID: -7883658818516130205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7156e4bd1dec50800000000000000
+      internalID: 6696040883765213992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4a93db05ee43f0800000000000000
+      internalID: -914541835352125499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_23
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 512
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143a622317b9ad10800000000000000
+      internalID: 2137440790973658137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba932cbcd7d1230800000000000000
+      internalID: 3611180790311398394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c582ad2ade5fb0800000000000000
+      internalID: -4657045075119455003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8733a944060dc6630800000000000000
+      internalID: 3921738487419253624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373d91e6481e8d40800000000000000
+      internalID: 5588430880325318451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb9c23a2d5d1ae0800000000000000
+      internalID: -1577001858687713290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a84747e55a233c70800000000000000
+      internalID: 8949543432956102824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d958824b8226aa30800000000000000
+      internalID: 4226103281845819859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_31
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a970492ec0f287530800000000000000
+      internalID: 3852881213602924442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a23c40fd4a27c0800000000000000
+      internalID: -4095375216674167689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a92dbe8ae46d3ef0800000000000000
+      internalID: -126834255916619351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc01f40b2a25fc0800000000000000
+      internalID: -3507562281643749928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_35
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 422
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bf24fae99d7830800000000000000
+      internalID: 4070578872610961783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba4560f7e6b8690800000000000000
+      internalID: -7598858454411465737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bed0c964f4b6d90800000000000000
+      internalID: -7103496822562362479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73316f842cd958a00800000000000000
+      internalID: 758185570055099191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd80727a904e800800000000000000
+      internalID: 640647660512533481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b307c319d798cb90800000000000000
+      internalID: -7221355043893083208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44c435f22fd41cc0800000000000000
+      internalID: -3741120049202281396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_42
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d6070298b3329d0800000000000000
+      internalID: -2800329083153519262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c5efb21429a690800000000000000
+      internalID: -7590496034008742240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc380bcac85fdca0800000000000000
+      internalID: -5989971351366517568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee35b5a967d6de0800000000000000
+      internalID: -1338283108929900955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521524c364e9c970800000000000000
+      internalID: 8775796466051781202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_47
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 332
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c2979537f0c9d80800000000000000
+      internalID: -8242696229898081189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905e8b4f75d97aa0800000000000000
+      internalID: -6162659872374632299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda840174ec18a60800000000000000
+      internalID: 7674642044627234245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef55be36b87b1520800000000000000
+      internalID: 2673863527905976292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b4c49bec88544c0800000000000000
+      internalID: -4303883447429215474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163281605a2ac8be0800000000000000
+      internalID: -1473624148401446047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106592db224f7f910800000000000000
+      internalID: 1871232600235398657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef910883e046850800000000000000
+      internalID: 6369231408838868643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_55
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ece5e3d167bc20800000000000000
+      internalID: 3222151621130381053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_56
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc342216fa9a34d60800000000000000
+      internalID: 7873323144287765451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf847df2f0c99ceb0800000000000000
+      internalID: -4699053147143321348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796019fddbea2220800000000000000
+      internalID: 2462039484910299505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_59
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 242
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd9f98e54c8dd7a0800000000000000
+      internalID: -6350765667639124488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0502d8f1012d7fa80800000000000000
+      internalID: -8433040810537312176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3ba1a305cb21d0800000000000000
+      internalID: -3374386876396126425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e407ea813c479c7c0800000000000000
+      internalID: -4050578008561520562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_63
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb0665ce1c459550800000000000000
+      internalID: 6166918959798291402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067cd7c7d2446250800000000000000
+      internalID: 5936943703319672328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c0b0f4b9958070800000000000000
+      internalID: 8108055706561725059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_66
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b52ccda284e6e40800000000000000
+      internalID: 5651533931326102402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_67
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58d49d69a9a53130800000000000000
+      internalID: 3545926826777172058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a078cb523a95f0800000000000000
+      internalID: -749231018217527603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50623c1cd3548e60800000000000000
+      internalID: 7963582245928853595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b7b80fc62c93c0800000000000000
+      internalID: -4351560469300398692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_71
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 152
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd448de0f19340bd0800000000000000
+      internalID: -2664942273940667173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ed641565b9d0b0800000000000000
+      internalID: -5703328007348950941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad713dd42c3ef7d0800000000000000
+      internalID: -2882800582443041372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2abec07ad7fb2710800000000000000
+      internalID: 1669700604438428204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c17092b24291850800000000000000
+      internalID: 6348144917545950213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23acd59e106f2b0800000000000000
+      internalID: -5551247388875017497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_77
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b7ff9c47c622a40800000000000000
+      internalID: 5341951356875799313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4171f5d798aa00800000000000000
+      internalID: 768030681601231925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9db34cede34fe80800000000000000
+      internalID: -8145816699510466103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4393b8fea654d50800000000000000
+      internalID: 6720895595985843417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_81
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42215c3e31807f50800000000000000
+      internalID: 6877138735294653002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_82
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13f68e2dc5ce120800000000000000
+      internalID: 2444430758667825618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta2_83
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 62
+        width: 90
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623eb648de4eb6780800000000000000
+      internalID: -8688599347301194970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

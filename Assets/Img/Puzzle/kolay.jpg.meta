@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 31ef8f61734749941bb0c44d20df749e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1897619397669688862
+    second: kolay_0
+  - first:
+      213: -1108745230842568219
+    second: kolay_1
+  - first:
+      213: 2427762220513095512
+    second: kolay_2
+  - first:
+      213: 2879767520785589561
+    second: kolay_3
+  - first:
+      213: -9020343407146738621
+    second: kolay_4
+  - first:
+      213: 7210767109977513812
+    second: kolay_5
+  - first:
+      213: 6660975055251695212
+    second: kolay_6
+  - first:
+      213: 2894771520478785348
+    second: kolay_7
+  - first:
+      213: -3232524087955336488
+    second: kolay_8
+  - first:
+      213: 6544055047206388245
+    second: kolay_9
+  - first:
+      213: -1759812942125622777
+    second: kolay_10
+  - first:
+      213: -8183644550265683905
+    second: kolay_11
+  - first:
+      213: 6180299553100484752
+    second: kolay_12
+  - first:
+      213: 3946855662896078379
+    second: kolay_13
+  - first:
+      213: 254917599288896796
+    second: kolay_14
+  - first:
+      213: -8771730868689669418
+    second: kolay_15
+  - first:
+      213: -5379155037169486662
+    second: kolay_16
+  - first:
+      213: -1548640687349406998
+    second: kolay_17
+  - first:
+      213: 3980420668030329539
+    second: kolay_18
+  - first:
+      213: 5860325592240171833
+    second: kolay_19
+  - first:
+      213: 8419676237752343010
+    second: kolay_20
+  - first:
+      213: 7733769815457518663
+    second: kolay_21
+  - first:
+      213: 1506203808435313235
+    second: kolay_22
+  - first:
+      213: -8688089550684663981
+    second: kolay_23
+  - first:
+      213: -4001833496120209769
+    second: kolay_24
+  - first:
+      213: 2840746915571153616
+    second: kolay_25
+  - first:
+      213: 7125127303496976597
+    second: kolay_26
+  - first:
+      213: -3021184717726767409
+    second: kolay_27
+  - first:
+      213: 7632029876608938420
+    second: kolay_28
+  - first:
+      213: -4990900437692465037
+    second: kolay_29
+  - first:
+      213: 5253253183407699030
+    second: kolay_30
+  - first:
+      213: -2295983450399168642
+    second: kolay_31
+  - first:
+      213: -6986858081670282758
+    second: kolay_32
+  - first:
+      213: 1132121683557054741
+    second: kolay_33
+  - first:
+      213: -872912119367517294
+    second: kolay_34
+  - first:
+      213: 6868746008112861868
+    second: kolay_35
+  - first:
+      213: 7349157835187534502
+    second: kolay_36
+  - first:
+      213: 532741469466089175
+    second: kolay_37
+  - first:
+      213: 4817798064703297704
+    second: kolay_38
+  - first:
+      213: 6247465648040730388
+    second: kolay_39
+  - first:
+      213: -7692983521826791248
+    second: kolay_40
+  - first:
+      213: 5488740306967401236
+    second: kolay_41
+  - first:
+      213: 3081043691723989466
+    second: kolay_42
+  - first:
+      213: 8058875075754690218
+    second: kolay_43
+  - first:
+      213: -1755006205906578078
+    second: kolay_44
+  - first:
+      213: -2496939959814374791
+    second: kolay_45
+  - first:
+      213: 4659966496275436270
+    second: kolay_46
+  - first:
+      213: -6739672078574141338
+    second: kolay_47
+  - first:
+      213: 6190829349210726295
+    second: kolay_48
+  - first:
+      213: 8413854429016705610
+    second: kolay_49
+  - first:
+      213: -7417426130678732204
+    second: kolay_50
+  - first:
+      213: 7093725833904953845
+    second: kolay_51
+  - first:
+      213: 3731862631328411586
+    second: kolay_52
+  - first:
+      213: -5423316886700240828
+    second: kolay_53
+  - first:
+      213: -8253340079535335499
+    second: kolay_54
+  - first:
+      213: -5537931194168354749
+    second: kolay_55
+  - first:
+      213: -2439608170029885221
+    second: kolay_56
+  - first:
+      213: -1431039328823962588
+    second: kolay_57
+  - first:
+      213: -8589349119188477819
+    second: kolay_58
+  - first:
+      213: -8736884714355763747
+    second: kolay_59
+  - first:
+      213: -311955835000293530
+    second: kolay_60
+  - first:
+      213: 1218554640784587187
+    second: kolay_61
+  - first:
+      213: -7197305858941536647
+    second: kolay_62
+  - first:
+      213: -4239293533958933044
+    second: kolay_63
+  - first:
+      213: 6751957872618516932
+    second: kolay_64
+  - first:
+      213: 6552338401127076497
+    second: kolay_65
+  - first:
+      213: -3564386181668900714
+    second: kolay_66
+  - first:
+      213: 984237563042147262
+    second: kolay_67
+  - first:
+      213: -2819769276730298226
+    second: kolay_68
+  - first:
+      213: -682932421027112145
+    second: kolay_69
+  - first:
+      213: 1144130326406267943
+    second: kolay_70
+  - first:
+      213: 6268606231913574827
+    second: kolay_71
+  - first:
+      213: 3675726450050496673
+    second: kolay_72
+  - first:
+      213: -3436550516388455229
+    second: kolay_73
+  - first:
+      213: -3039900659836171911
+    second: kolay_74
+  - first:
+      213: 588655804256723584
+    second: kolay_75
+  - first:
+      213: 6248469363518146590
+    second: kolay_76
+  - first:
+      213: 8275896653387561136
+    second: kolay_77
+  - first:
+      213: -1764676225730516416
+    second: kolay_78
+  - first:
+      213: 1007100918497142594
+    second: kolay_79
+  - first:
+      213: 6751275051110059489
+    second: kolay_80
+  - first:
+      213: -4957418078923025879
+    second: kolay_81
+  - first:
+      213: -8990614679455968929
+    second: kolay_82
+  - first:
+      213: 3151461370806247151
+    second: kolay_83
+  - first:
+      213: -8404544234084040304
+    second: kolay_84
+  - first:
+      213: 1581992780399651460
+    second: kolay_85
+  - first:
+      213: 4357838644642656374
+    second: kolay_86
+  - first:
+      213: -4719039062124720482
+    second: kolay_87
+  - first:
+      213: 3022274678892039532
+    second: kolay_88
+  - first:
+      213: 5888975143558504790
+    second: kolay_89
+  - first:
+      213: -1360588958331981005
+    second: kolay_90
+  - first:
+      213: 8561239857340426886
+    second: kolay_91
+  - first:
+      213: 4997707469555540917
+    second: kolay_92
+  - first:
+      213: -2419059681605284714
+    second: kolay_93
+  - first:
+      213: 8684886315405154594
+    second: kolay_94
+  - first:
+      213: -393667577737000534
+    second: kolay_95
+  - first:
+      213: 6279605283363961356
+    second: kolay_96
+  - first:
+      213: -1344888316354667362
+    second: kolay_97
+  - first:
+      213: 413216359768609580
+    second: kolay_98
+  - first:
+      213: -2628327895175849542
+    second: kolay_99
+  - first:
+      213: -3622541188703219150
+    second: kolay_0
+  - first:
+      213: -8900271795069667139
+    second: kolay_1
+  - first:
+      213: 369404957147022107
+    second: kolay_2
+  - first:
+      213: 9130546600931449276
+    second: kolay_3
+  - first:
+      213: -6236422976566410643
+    second: kolay_4
+  - first:
+      213: 5901177419649815670
+    second: kolay_5
+  - first:
+      213: 2083469751840424844
+    second: kolay_6
+  - first:
+      213: -6913899839732963733
+    second: kolay_7
+  - first:
+      213: 4951193130662477588
+    second: kolay_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kolay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329f1f5bf52abdc0800000000000000
+      internalID: -3622541188703219150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 124
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b17245f1eb7480800000000000000
+      internalID: -8900271795069667139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b134401f9d3602500800000000000000
+      internalID: 369404957147022107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95ba102c736be70800000000000000
+      internalID: 9130546600931449276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62cca44856c379a0800000000000000
+      internalID: -6236422976566410643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67498cee89135e150800000000000000
+      internalID: 5901177419649815670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8348ba53b8f9ec10800000000000000
+      internalID: 2083469751840424844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6626182ab4ec00a0800000000000000
+      internalID: -6913899839732963733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolay_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90.333336
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbd777beb26b440800000000000000
+      internalID: 4951193130662477588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

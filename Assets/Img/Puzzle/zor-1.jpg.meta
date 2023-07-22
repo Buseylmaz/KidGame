@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: a6095ed636cb28f42ae6a10be7b28596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4555360066547020255
+    second: zor-1_0
+  - first:
+      213: -1860293996244094856
+    second: zor-1_1
+  - first:
+      213: 4322930996494556104
+    second: zor-1_2
+  - first:
+      213: -2820827566557664894
+    second: zor-1_3
+  - first:
+      213: 423021147464099177
+    second: zor-1_4
+  - first:
+      213: 7566573554085145987
+    second: zor-1_5
+  - first:
+      213: 1253800174261613681
+    second: zor-1_6
+  - first:
+      213: -5303953629124785032
+    second: zor-1_7
+  - first:
+      213: 1026430313993415924
+    second: zor-1_8
+  - first:
+      213: -8820895915302454459
+    second: zor-1_9
+  - first:
+      213: -1350824405228771408
+    second: zor-1_10
+  - first:
+      213: 4365343154645028654
+    second: zor-1_11
+  - first:
+      213: -8111531712661364099
+    second: zor-1_12
+  - first:
+      213: -6440443260644831649
+    second: zor-1_13
+  - first:
+      213: -2494807131825604785
+    second: zor-1_14
+  - first:
+      213: 3887995240175320674
+    second: zor-1_15
+  - first:
+      213: 8844947984912339298
+    second: zor-1_16
+  - first:
+      213: -3462038624205713445
+    second: zor-1_17
+  - first:
+      213: -4989475481215054763
+    second: zor-1_18
+  - first:
+      213: -3536368473910898914
+    second: zor-1_19
+  - first:
+      213: 2177555006212350883
+    second: zor-1_20
+  - first:
+      213: -8360197087223041142
+    second: zor-1_21
+  - first:
+      213: -7574916482822526232
+    second: zor-1_22
+  - first:
+      213: 7336875587116732578
+    second: zor-1_23
+  - first:
+      213: -2289819409742916778
+    second: zor-1_24
+  - first:
+      213: -8198057075401752132
+    second: zor-1_25
+  - first:
+      213: -251494009765747034
+    second: zor-1_26
+  - first:
+      213: -1487044953445894167
+    second: zor-1_27
+  - first:
+      213: -3465028742161087824
+    second: zor-1_28
+  - first:
+      213: -299382379601416963
+    second: zor-1_29
+  - first:
+      213: 4938476850996519486
+    second: zor-1_30
+  - first:
+      213: 4113034230113133030
+    second: zor-1_31
+  - first:
+      213: -7306262699117448561
+    second: zor-1_32
+  - first:
+      213: -4903106156878179999
+    second: zor-1_33
+  - first:
+      213: 5860727967608965397
+    second: zor-1_34
+  - first:
+      213: 5214830298459480849
+    second: zor-1_35
+  - first:
+      213: -4493190645794773397
+    second: zor-1_36
+  - first:
+      213: -5532901276792616227
+    second: zor-1_37
+  - first:
+      213: -3303385851373981063
+    second: zor-1_38
+  - first:
+      213: 3560839602579495217
+    second: zor-1_39
+  - first:
+      213: -4310602476182397623
+    second: zor-1_40
+  - first:
+      213: -6804762187321019121
+    second: zor-1_41
+  - first:
+      213: 8437627033646485292
+    second: zor-1_42
+  - first:
+      213: 1421082704074017780
+    second: zor-1_43
+  - first:
+      213: 6892500850647823523
+    second: zor-1_44
+  - first:
+      213: -7063999051907190044
+    second: zor-1_45
+  - first:
+      213: -2081547252245996186
+    second: zor-1_46
+  - first:
+      213: -3731494521829503363
+    second: zor-1_47
+  - first:
+      213: 2722405165418001685
+    second: zor-1_48
+  - first:
+      213: 9176232530666284563
+    second: zor-1_49
+  - first:
+      213: -6312841044437358124
+    second: zor-1_50
+  - first:
+      213: 7189518497147717471
+    second: zor-1_51
+  - first:
+      213: -6314907230318772245
+    second: zor-1_52
+  - first:
+      213: 7357928852055069801
+    second: zor-1_53
+  - first:
+      213: 5268115802230006808
+    second: zor-1_54
+  - first:
+      213: 255764038601168979
+    second: zor-1_55
+  - first:
+      213: 646108745195021456
+    second: zor-1_56
+  - first:
+      213: 8603361085955840748
+    second: zor-1_57
+  - first:
+      213: 2197549862390841646
+    second: zor-1_58
+  - first:
+      213: 5772249913957200148
+    second: zor-1_59
+  - first:
+      213: 1595982789178671664
+    second: zor-1_60
+  - first:
+      213: -1680166911734182241
+    second: zor-1_61
+  - first:
+      213: 8335260620563765970
+    second: zor-1_62
+  - first:
+      213: -294456026141611814
+    second: zor-1_63
+  - first:
+      213: -924986795577122904
+    second: zor-1_64
+  - first:
+      213: -3874982878372260314
+    second: zor-1_65
+  - first:
+      213: 8039923273115137393
+    second: zor-1_66
+  - first:
+      213: -8710526283267746494
+    second: zor-1_67
+  - first:
+      213: 4970908991221353861
+    second: zor-1_68
+  - first:
+      213: 8691908057867881850
+    second: zor-1_69
+  - first:
+      213: 2372429108959014178
+    second: zor-1_70
+  - first:
+      213: 1944491636022463093
+    second: zor-1_71
+  - first:
+      213: 3211263733903224942
+    second: zor-1_72
+  - first:
+      213: 2844858947683357557
+    second: zor-1_73
+  - first:
+      213: 5299775362303217114
+    second: zor-1_74
+  - first:
+      213: 3989731102214225620
+    second: zor-1_75
+  - first:
+      213: -7820211116863292794
+    second: zor-1_76
+  - first:
+      213: 2330853336783209310
+    second: zor-1_77
+  - first:
+      213: 9066287721377317082
+    second: zor-1_78
+  - first:
+      213: 2733473964806249068
+    second: zor-1_79
+  - first:
+      213: 1068943034289111784
+    second: zor-1_80
+  - first:
+      213: -7712147454291302915
+    second: zor-1_81
+  - first:
+      213: -4128267004358412124
+    second: zor-1_82
+  - first:
+      213: -4927856129835148502
+    second: zor-1_83
+  - first:
+      213: 1939293189470389117
+    second: zor-1_84
+  - first:
+      213: -6662595691876890869
+    second: zor-1_85
+  - first:
+      213: 3456727213043032055
+    second: zor-1_86
+  - first:
+      213: 6528647236078728514
+    second: zor-1_87
+  - first:
+      213: 2240509098894205855
+    second: zor-1_88
+  - first:
+      213: -6343738354509241488
+    second: zor-1_89
+  - first:
+      213: -284069731339852804
+    second: zor-1_90
+  - first:
+      213: 5795283533031651194
+    second: zor-1_91
+  - first:
+      213: 4814461628333252826
+    second: zor-1_92
+  - first:
+      213: 4165969229311740928
+    second: zor-1_93
+  - first:
+      213: 7357399976274370385
+    second: zor-1_94
+  - first:
+      213: 8005506020735056010
+    second: zor-1_95
+  - first:
+      213: -706633335452027351
+    second: zor-1_96
+  - first:
+      213: -604527792807795821
+    second: zor-1_97
+  - first:
+      213: -760383279819366580
+    second: zor-1_98
+  - first:
+      213: -1729411929523750956
+    second: zor-1_99
+  - first:
+      213: -5532038216410953073
+    second: zor-1_100
+  - first:
+      213: -2304540447890543510
+    second: zor-1_101
+  - first:
+      213: -3963770058242590856
+    second: zor-1_102
+  - first:
+      213: 3678679608274313802
+    second: zor-1_103
+  - first:
+      213: 1843941412202622164
+    second: zor-1_104
+  - first:
+      213: -6027295938287800321
+    second: zor-1_105
+  - first:
+      213: -8510955520321113010
+    second: zor-1_106
+  - first:
+      213: -3705090830457180809
+    second: zor-1_107
+  - first:
+      213: 5659112246353017458
+    second: zor-1_108
+  - first:
+      213: -5331609994451961761
+    second: zor-1_109
+  - first:
+      213: -1947892280244255276
+    second: zor-1_110
+  - first:
+      213: 2094304120411048329
+    second: zor-1_111
+  - first:
+      213: 1004690128517160860
+    second: zor-1_112
+  - first:
+      213: -5397037708003374646
+    second: zor-1_113
+  - first:
+      213: -4779145130163054308
+    second: zor-1_114
+  - first:
+      213: 2646883526829465394
+    second: zor-1_115
+  - first:
+      213: -8310888747318387425
+    second: zor-1_116
+  - first:
+      213: -9134209474306573069
+    second: zor-1_117
+  - first:
+      213: 7599112264415951038
+    second: zor-1_118
+  - first:
+      213: -8311932476125503152
+    second: zor-1_119
+  - first:
+      213: -2359611503109745875
+    second: zor-1_120
+  - first:
+      213: 3554211045908418602
+    second: zor-1_121
+  - first:
+      213: 7775568982833654437
+    second: zor-1_122
+  - first:
+      213: 5060164002885592962
+    second: zor-1_123
+  - first:
+      213: -8167355076005069334
+    second: zor-1_124
+  - first:
+      213: -2772499890667593449
+    second: zor-1_125
+  - first:
+      213: 6344846475071230430
+    second: zor-1_126
+  - first:
+      213: -6283519608351881498
+    second: zor-1_127
+  - first:
+      213: 2079416026756972632
+    second: zor-1_128
+  - first:
+      213: -1633824573361555687
+    second: zor-1_129
+  - first:
+      213: -4441902673106881745
+    second: zor-1_130
+  - first:
+      213: 8265425331581567054
+    second: zor-1_131
+  - first:
+      213: 8347725977139952771
+    second: zor-1_132
+  - first:
+      213: -822559777900474341
+    second: zor-1_133
+  - first:
+      213: -4087814069327064000
+    second: zor-1_134
+  - first:
+      213: 6004970777400828767
+    second: zor-1_135
+  - first:
+      213: 939238282413620511
+    second: zor-1_136
+  - first:
+      213: 3622800105711763426
+    second: zor-1_137
+  - first:
+      213: -3947990362931605858
+    second: zor-1_138
+  - first:
+      213: -7513153291547343653
+    second: zor-1_139
+  - first:
+      213: -5451136097600303342
+    second: zor-1_140
+  - first:
+      213: 3616830730028736111
+    second: zor-1_141
+  - first:
+      213: -8054897182815615168
+    second: zor-1_142
+  - first:
+      213: -1440546070313709948
+    second: zor-1_143
+  - first:
+      213: 3498670081587828636
+    second: zor-1_0
+  - first:
+      213: 4753648589939713624
+    second: zor-1_1
+  - first:
+      213: -9014419214528677721
+    second: zor-1_2
+  - first:
+      213: 8184556662546237225
+    second: zor-1_3
+  - first:
+      213: -3973523372728259997
+    second: zor-1_4
+  - first:
+      213: -8813059648506435804
+    second: zor-1_5
+  - first:
+      213: 2443235266581876364
+    second: zor-1_6
+  - first:
+      213: 8149052450916250124
+    second: zor-1_7
+  - first:
+      213: 6596184420847130943
+    second: zor-1_8
+  - first:
+      213: -6899571294927386367
+    second: zor-1_9
+  - first:
+      213: 6461482013686626537
+    second: zor-1_10
+  - first:
+      213: -1860534576518450239
+    second: zor-1_11
+  - first:
+      213: -4276865707379088457
+    second: zor-1_12
+  - first:
+      213: -1687710550569451890
+    second: zor-1_13
+  - first:
+      213: 8557670489688995210
+    second: zor-1_14
+  - first:
+      213: 1656408498829663537
+    second: zor-1_15
+  - first:
+      213: 6053059505182071535
+    second: zor-1_16
+  - first:
+      213: -1368454086144003291
+    second: zor-1_17
+  - first:
+      213: 2200353949472331160
+    second: zor-1_18
+  - first:
+      213: 4559913865122798843
+    second: zor-1_19
+  - first:
+      213: 7300672480810142482
+    second: zor-1_20
+  - first:
+      213: -8596845712370693077
+    second: zor-1_21
+  - first:
+      213: -542184848416183986
+    second: zor-1_22
+  - first:
+      213: 2011368068418667867
+    second: zor-1_23
+  - first:
+      213: 7911433931035821220
+    second: zor-1_24
+  - first:
+      213: 1467554519484452972
+    second: zor-1_25
+  - first:
+      213: -5797582250585266322
+    second: zor-1_26
+  - first:
+      213: -8796386782250994867
+    second: zor-1_27
+  - first:
+      213: 7801870288227639356
+    second: zor-1_28
+  - first:
+      213: -9033535503013419751
+    second: zor-1_29
+  - first:
+      213: -439983337266061308
+    second: zor-1_30
+  - first:
+      213: 6668081641939690393
+    second: zor-1_31
+  - first:
+      213: -7670974728485645645
+    second: zor-1_32
+  - first:
+      213: 8217456321567260153
+    second: zor-1_33
+  - first:
+      213: 3109725993947128808
+    second: zor-1_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zor-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97545707e5cd8030800000000000000
+      internalID: 3498670081587828636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a466e43a58f140800000000000000
+      internalID: 4753648589939713624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ff8d1c7956e280800000000000000
+      internalID: -9014419214528677721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9270023cbe2659170800000000000000
+      internalID: 8184556662546237225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae1dd8b853bd8c0800000000000000
+      internalID: -3973523372728259997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e17a71f8b1b580800000000000000
+      internalID: -8813059648506435804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 800
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec157b78d18e120800000000000000
+      internalID: 2443235266581876364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b3e05700471170800000000000000
+      internalID: 8149052450916250124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f391f8d58ca5a8b50800000000000000
+      internalID: 6596184420847130943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1090f57767ccf30a0800000000000000
+      internalID: -6899571294927386367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8fd5438abcba950800000000000000
+      internalID: 6461482013686626537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3394209ad0e26e0800000000000000
+      internalID: -1860534576518450239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ae978c4585a4c0800000000000000
+      internalID: -4276865707379088457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 600
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef0a5323c0498e0800000000000000
+      internalID: -1687710550569451890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8571ca48f3f2c670800000000000000
+      internalID: 8557670489688995210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1eafe0cebcf610800000000000000
+      internalID: 1656408498829663537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaddaaac89c00450800000000000000
+      internalID: 6053059505182071535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52374ff4246420de0800000000000000
+      internalID: -1368454086144003291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8951d62524a398e10800000000000000
+      internalID: 2200353949472331160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd5093081184f30800000000000000
+      internalID: 4559913865122798843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 400
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8820d0f2315560800000000000000
+      internalID: 7300672480810142482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c0e456f5ed1b880800000000000000
+      internalID: -8596845712370693077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ed83c0c5c978f0800000000000000
+      internalID: -542184848416183986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5588aef990d9eb10800000000000000
+      internalID: 2011368068418667867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4cc536e3f0bcd60800000000000000
+      internalID: 7911433931035821220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d36e5f0dcd5410800000000000000
+      internalID: 1467554519484452972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6761c5f8a9da8fa0800000000000000
+      internalID: -5797582250585266322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 200
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fcf8a3d4fce580800000000000000
+      internalID: -8796386782250994867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ab79e0bfc54c60800000000000000
+      internalID: 7801870288227639356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915610d525f62a280800000000000000
+      internalID: -9033535503013419751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4006a236c7dd4e9f0800000000000000
+      internalID: -439983337266061308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936e11ace8c98c50800000000000000
+      internalID: 6668081641939690393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25d9380293b8590800000000000000
+      internalID: -7670974728485645645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdfd4c8cf44a0270800000000000000
+      internalID: 8217456321567260153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zor-1_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 142.85715
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36402c057f72b20800000000000000
+      internalID: 3109725993947128808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
